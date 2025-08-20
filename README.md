@@ -3,9 +3,9 @@ This project implements a multimodal RAG system that helps users design creative
 
 When a user submits a query:
 
-1-The system retrieves the most relevant flower images from the database.
-2-These images are converted into base64-encoded representations and passed, along with the user’s query, to a vision-language model (LLM).
-3-The model then generates a personalized, conversational bouquet suggestion grounded in the retrieved images.
+1-The system retrieves the most relevant flower images from the database.<br>
+2-These images are converted into base64-encoded representations and passed, along with the user’s query, to a vision-language model (LLM).<br>
+3-The model then generates a personalized, conversational bouquet suggestion grounded in the retrieved images.<br>
 
 This combines image retrieval, multimodal embeddings, and generative AI to provide a unique, interactive tool for floral design inspiration.
 
